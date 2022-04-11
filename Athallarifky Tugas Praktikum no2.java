@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Solution {
 
-    public static void main(String[] args) {
+   public static void main(String[] args) {
    
         Scanner saldo = new Scanner(System.in);
         double saldoAwal = saldo.nextDouble();
